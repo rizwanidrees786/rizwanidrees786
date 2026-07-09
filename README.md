@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Validated High-Availability Typing Animation Engine -->
+  <!-- Expert High-Tech Neon Typing SVG Engine -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF66&center=true&vCenter=true&width=850&height=75&lines=🤖+RIZWAN+IDREES+|+PRINCIPAL+AI+ARCHITECT;🧠+DEEP+LEARNING+%26+NLP+RESEARCHER;💻+FULL-STACK+TECHNICAL+GENERALIST;🔌+IoT+%26+HARDWARE+AUTOMATION+ENGINEER" alt="Rizwan Idrees AI Persona" />
 
   <p align="center">
