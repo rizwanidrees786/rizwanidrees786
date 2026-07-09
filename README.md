@@ -1,9 +1,11 @@
 <div align="center">
+  <!-- GitHub interface layout wrapper -->
+  <br />
 
-  <!-- Advanced Dual-Tone Animated Cyber Badge -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00E5FF&background=030712&center=true&vCenter=true&width=900&height=90&lines=🚀+RIZWAN+IDREES++|++PRINCIPAL+AI+ENGINEER;🧠+ENTERPRISE+MLOPS++%26++LLM+ARCHITECT;💻+FULL-STACK+SYSTEMS+GENERALIST;🔌+INDUSTRIAL+IOT++%26++AUTOMATION+EXPERT;🛡️+CYBER-PHYSICAL+SYSTEMS+INTEGRATOR" alt="Rizwan Idrees Cyber Persona" />
+  <!-- Advanced Neon Cyan Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00E5FF&background=0D1117&center=true&vCenter=true&width=950&height=100&lines=🚀+RIZWAN+IDREES++|++PRINCIPAL+AI+ENGINEER;🧠+ENTERPRISE+MLOPS++%26++LLM+ARCHITECT;💻+FULL-STACK+SYSTEMS+GENERALIST;🔌+INDUSTRIAL+IOT++%26++AUTOMATION+EXPERT;🛡️+CYBER-PHYSICAL+SYSTEMS+INTEGRATOR" alt="Rizwan Idrees Cyber Persona" />
 
-  <p align="center">
+  <p align="center" style="margin-top: 15px;">
     <strong>Architecting High-Throughput Distributed AI Ecosystems • Engineering Ultra-Low Latency Hardware Topologies</strong>
   </p>
 
