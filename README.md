@@ -1,7 +1,8 @@
 <div align="center">
 
-  <!-- Expert High-Tech Neon Typing SVG Engine -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF66&center=true&vCenter=true&width=850&height=75&lines=🤖+RIZWAN+IDREES+|+PRINCIPAL+AI+ARCHITECT;🧠+DEEP+LEARNING+%26+NLP+RESEARCHER;💻+FULL-STACK+TECHNICAL+GENERALIST;🔌+IoT+%26+HARDWARE+AUTOMATION+ENGINEER" alt="Rizwan Idrees AI Persona" />
+  <!-- Style-Enhanced Header -->
+  <h1>🤖 RIZWAN+IDREES | PRINCIPAL AI ARCHITECT</h1>
+  <p><strong>🧠 DEEP LEARNING & NLP RESEARCHER • 💻 FULL-STACK TECHNICAL GENERALIST • 🔌 IoT & HARDWARE AUTOMATION ENGINEER</strong></p>
 
   <p align="center">
     <strong>Architecting Production-Ready ML Pipelines • Designing Scalable Enterprise Software Architecture</strong>
@@ -117,31 +118,8 @@ A highly versatile **Software Engineer, AI Specialist, and Tech Generalist** hol
 
 ### 📊 System Performance & Git Telemetry
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwanidrees786&theme=dark&show_icons=true&include_all_commits=true&count_private=true" width="480px" alt="GitHub Profile Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanidrees786&theme=dark&layout=compact&include_all_commits=true&count_private=true" width="380px" alt="Dominant Languages" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanidrees786&theme=dark" width="870px" alt="Contribution Consistency Track" />
-</div>
-
----
-
-### 🏆 Verified Git Commit Milestones
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizwanidrees786&theme=darkhub&no-frame=false&no-bg=false" width="870px" alt="Rizwan Idrees Milestones" />
-</div>
-
----
-
-### 🛠️ Production Commit Proportions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizwanidrees786&repo=rizwanidrees786&theme=dark" alt="Repository Highlights" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="System Engineering Logic Quote" />
-</div>
+```text
+[SYSTEM METRICS] OVERVIEW LOGS
+├── Profile Performance  : High-Throughput Relational Architecture Optimized
+├── Primary Compute      : Deep Learning Matrix Deployment Ready
+└── Core Infrastructure  : Decoupled Multi-Tier Cloud Ingress Systems
