@@ -1,133 +1,147 @@
 <div align="center">
-  
-  <!-- Animated Header Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=70&lines=🤖+RIZWAN+IDREES+|+AI+SPECIALIST;🧠+DEEP+LEARNING+%26+ML+ENGINEER;💻+FULL-STACK+TECHNICAL+GENERALIST" alt="Typing SVG" />
+
+  <!-- Validated High-Availability Typing Animation Engine -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF66&center=true&vCenter=true&width=850&height=75&lines=🤖+RIZWAN+IDREES+|+PRINCIPAL+AI+ARCHITECT;🧠+DEEP+LEARNING+%26+NLP+RESEARCHER;💻+FULL-STACK+TECHNICAL+GENERALIST;🔌+IoT+%26+HARDWARE+AUTOMATION+ENGINEER" alt="Rizwan Idrees AI Persona" />
 
   <p align="center">
-    <strong>Architecting Intelligent Pipelines • Translating Neural Data into Scalable Systems</strong>
+    <strong>Architecting Production-Ready ML Pipelines • Designing Scalable Enterprise Software Architecture</strong>
   </p>
 
-  <!-- Live Dynamic Profile Badges / Visitor Counters -->
+  <!-- Real-time Dynamic Activity Anchors -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Maintained%3F-Yes-brightgreen?style=flat-square" alt="Maintained" />
-    <img src="https://img.shields.io/badge/AI%20Research-NLP%20%7C%20Deep%20Learning-blue?style=flat-square" alt="Research Domain" />
-    <img src="https://komarev.com/ghpvc/?username=rizwanidrees786&label=PROFILE+VIEWS&color=0077B5&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Academic%20Background-MSCS%20%7C%20GCU%20Lahore-blue?style=for-the-badge" alt="GCU Alumni" />
+    <img src="https://img.shields.io/badge/Core%20Focus-Computational%20Linguistics%20%26%20MLOps-orange?style=for-the-badge" alt="Core Domains" />
+    <img src="https://komarev.com/ghpvc/?username=rizwanidrees786&label=TELEMETRY+VIEWS&color=39FF14&style=for-the-badge" alt="Profile Vector Logs" />
   </p>
 </div>
 
 ---
 
-### 🔮 System Overview
+### 🧬 Executive Profile Overview
 
-An expert Technical Generalist and AI Engineer specializing in processing complex language morphology, multi-domain data engineering, and cross-platform architectural integrations. From curating localized text corpora to engineering automated MLOps infrastructure, I bridge the gap between heavy mathematical models and edge-ready software execution.
+A highly versatile **Software Engineer, AI Specialist, and Tech Generalist** holding an **MSCS degree from GC University, Lahore**. Backed by over **5+ years of cross-functional industry experience**, my technical capacity bridges deep academic computational research with production-grade engineering deployments across complex web, mobile, and hardware automation topologies.
 
-- 🧬 **Core Deep Learning Focus:** Morphology-Aware Attention Systems, Natural Language Processing, Sentiment Analysis.
-- ⚙️ **Systems Engineering:** Automated ML pipelines, database query scaling, and non-blocking multi-threaded microcontroller logic.
-- 🎨 **Visual Architecture:** High-fidelity UI/UX component design balanced with rigorous backend performance constraints.
+- 🔬 **Computational Linguistics Expert:** Deep specialization in low-resource Natural Language Processing (NLP), morphology-aware attention networks, and fine-tuning localized transformer variants.
+- 🎛️ **Full-Stack & Systems Architect:** Designing scalable enterprise multi-tier portals, heavy e-commerce database engines, and responsive user interfaces optimized for high-volume transactions.
+- ⚡ **Embedded Infrastructure:** Engineering custom low-latency IoT microcontrollers, real-time automation scripts, and firmware-software logic overrides.
 
 ---
 
-### 🌐 Connect Matrix
+### 🌐 Corporate & Social Connect Grid
 
 <p align="left">
-  <a href="https://linkedin.com/in/rizwan-idrees-data-scientist" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:rizwanidrees786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-  <a href="https://rizwan.aenascents.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139&style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://facebook.com/rizwanidrees786" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook" /></a>
-  <a href="https://instagram.com/rizwanidrees786" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/rizwan-idrees-data-scientist" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rizwanidrees786@gmail.com"><img src="https://img.shields.io/badge/Email-Direct%20Inquiries-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rizwan.aenascents.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Digital%20Showcase-%23000000?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
+  <a href="https://facebook.com/rizwanidrees786" target="_blank"><img src="https://img.shields.io/badge/Facebook-Network-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/rizwanidrees786" target="_blank"><img src="https://img.shields.io/badge/Instagram-Visuals-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-### 💻 Core Tech Stack
+### 🔬 Published Scientific Research & Literature
+
+📑 **MS Thesis:** *Depression Analysis from Urdu Text using Deep Learning Approaches*
+- Developed custom classification frameworks and fine-tuned deep architecture variants to extract clinical behavioral indicators from raw, unstructured low-resource text blocks.
+
+📝 **International Conference Paper 01:** *Enhancing Urdu Dependency Parsing with Bidirectional Transformer Encoders and Morphology-Aware Attention*
+- **Proceedings:** 2nd International Conference on Recent Advances in Computer Science & Information Technology (ICRCSIT).
+- **Core Contribution:** Introduced custom attention layers that analyze intra-word structural morphological roots to accurately parse free-word-order linguistic streams.
+
+📝 **International Conference Paper 02:** *Multi Domain Sentiment Analysis in Low Resource Language*
+- **Proceedings:** 2nd International Conference on Recent Advances in Computer Science & Information Technology (ICRCSIT).
+- **Core Contribution:** Engineered multi-domain text datasets and preprocessing pipelines to stabilize model parsing accuracy across informal and technical domain cross-overs.
+
+---
+
+### 🚀 Advanced Production Implementations & Projects
+
+- 🧠 **AI-Based Depression and Anxiety Detection System:** Built complete NLP pipeline including raw data cleaning, tokenization wrappers, and deployment modules for analyzing unstructured textual input data.
+- 🛒 **Intelligent Recommendation Engine for E-Commerce Platforms:** Developed mathematical collaborative-filtering and intent-prediction models integrated directly with full-stack e-commerce databases.
+- 🗂️ **Document Clustering Engine for Information Retrieval:** Designed unsupervised clustering frameworks utilizing PCA, TF-IDF feature reduction, and Mini-Batch processing architectures to map massive scientific publications.
+- 🏡 **Smart Home Automation & Hardware Systems:** Formulated multi-tasking non-blocking timing controls on microcontrollers using hardware interrupts, hardware debouncing, and custom battery management circuits.
+- 📦 **Automated Social Media Brand Monitoring System:** Curated streaming sentiment-analysis trackers for live brand asset evaluation across multi-channel textual pipelines.
+
+---
+
+### 🛠️ Comprehensive Technology Stack
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>AI & Data Science</strong></td>
-    <td align="center" width="25%"><strong>Languages & DBs</strong></td>
-    <td align="center" width="25%"><strong>Full-Stack & Hardware</strong></td>
-    <td align="center" width="25%"><strong>Design Frameworks</strong></td>
+    <td align="center" width="25%"><strong>Artificial Intelligence</strong></td>
+    <td align="center" width="25%"><strong>Full-Stack Architecture</strong></td>
+    <td align="center" width="25%"><strong>IoT & Infrastructure</strong></td>
+    <td align="center" width="25%"><strong>UI/UX & Creative Assets</strong></td>
   </tr>
   <tr>
     <td valign="top">
-      • TensorFlow <br />
-      • PyTorch <br />
-      • Keras <br />
-      • Scikit-Learn <br />
-      • NumPy / Pandas <br />
-      • Hugging Face <br />
-      • MLflow / EDA
+      • Python / Scikit-Learn <br />
+      • TensorFlow / PyTorch <br />
+      • Hugging Face Transformers <br />
+      • NLP Pipelines & Tokenization <br />
+      • Deep Learning Encoders <br />
+      • Exploratory Data Analysis <br />
+      • Dataset & Corpus Curation
     </td>
     <td valign="top">
-      • Python <br />
-      • Java / C# <br />
-      • JavaScript / PHP <br />
-      • MySQL / SQL Server <br />
-      • MongoDB <br />
-      • Firebase <br />
-      • SQLite
+      • JavaScript / PHP / Java <br />
+      • Kotlin / C# / .NET <br />
+      • SQL Server / MySQL <br />
+      • Firebase / MongoDB <br />
+      • WordPress / WooCommerce <br />
+      • Custom API Hooks <br />
+      • Database Query Optimization
     </td>
     <td valign="top">
-      • WordPress Ecosystem <br />
-      • WooCommerce Customization <br />
-      • Node.js / React <br />
-      • Android Studio <br />
-      • Arduino IDE <br />
-      • Hardware Interrupts <br />
-      • Sensor Interfacing
+      • Arduino IDE / Firmware <br />
+      • Microcontrollers <br />
+      • Sensor Interfacing <br />
+      • Non-Blocking Hardware Timing <br />
+      • Hardware Interrupt Routines <br />
+      • Custom Battery System Design <br />
+      • Git Version Control
     </td>
     <td valign="top">
       • Adobe Photoshop <br />
       • Adobe Illustrator <br />
       • UI/UX Wireframing <br />
-      • Figma <br />
-      • Figma to HTML/CSS <br />
-      • Vector Compositing <br />
-      • Asset Compression
+      • Component Styling <br />
+      • Visual Communication <br />
+      • Asset Resolution Tuning <br />
+      • Layout Consistency
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 System Telemetry & Analytics
+### 📊 System Performance & Git Telemetry
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=rizwanidrees786&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="480px" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rizwanidrees786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380px" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=rizwanidrees786&theme=dark&hide_border=false" width="870px" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanidrees786&theme=dark&show_icons=true&include_all_commits=true&count_private=true" width="480px" alt="GitHub Profile Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanidrees786&theme=dark&layout=compact&include_all_commits=true&count_private=true" width="380px" alt="Dominant Languages" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanidrees786&theme=dark" width="870px" alt="Contribution Consistency Track" />
 </div>
 
 ---
 
-### 🏆 Neural Milestones (Trophies)
+### 🏆 Verified Git Commit Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizwanidrees786&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rizwanidrees786&theme=darkhub&no-frame=false&no-bg=false" width="870px" alt="Rizwan Idrees Milestones" />
 </div>
 
 ---
 
-### 🛠️ Production Metrics
+### 🛠️ Production Commit Proportions
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rizwanidrees786&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizwanidrees786&repo=rizwanidrees786&theme=dark" alt="Repository Highlights" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="System Engineering Logic Quote" />
 </div>
